@@ -71,7 +71,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-    # retrieve data from a file into a dataframe
+    # retrieving data from a file into a dataframe
     df = pd.read_csv(CITY_DATA[city])
 
     # transform the 'Start Time' column into a datetime
