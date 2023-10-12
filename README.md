@@ -1,7 +1,7 @@
 **Date**: 1st october, 2023
 
 **BikeShare Data**
-Over the last ten years, bike-sharing systems have become more popular in cities worldwide. These services let users rent bikes for short periods, often at a norm fee. You can pick up a bike from one spot and drop it off at another, or you can return it to where you got it. Each bike can be used by multiple people in a single day.
+Over the last ten years, bike-sharing systems have become more popular in cities worldwide. These services let users rent bikes for short periods, often at a norminal fee. You can pick up a bike from one spot and drop it off at another, or you can return it to where you got it. Each bike can be used by multiple people in a single day.
 
 Thanks to technology, it's now easy for users to find and use these bike-sharing stations. Plus, these technologies provide lots of data that can help us understand how people use these systems.
 
