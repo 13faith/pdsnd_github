@@ -74,7 +74,7 @@ def load_data(city, month, day):
     # retrieving data from a file into a dataframe
     df = pd.read_csv(CITY_DATA[city])
 
-    # transform the 'Start Time' column into a datetime
+    # transforming the 'Start Time' column into a datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     # create new columns by extracting the month and day of the week from the 'Start Time'
