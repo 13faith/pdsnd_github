@@ -18,7 +18,7 @@ def get_filters():
     print('Hi there! let\'s delve into some US bikeshare data')
     city = ''
     month = 'all' #initializing month to 'all'
-    day = 'all' #initialize day
+    day = 'all' #initializing day
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     cities = ['chicago', 'new york city', 'washington']
     months = ['all','January','February', 'March', 'April', 'May', 'June']
